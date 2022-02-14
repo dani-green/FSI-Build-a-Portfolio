@@ -1,7 +1,7 @@
 /* Universal Selector */
 
 * div{
-    background-color: lightblue;
+    background-color: darkslategray;
     cursor: url(../images/cursor.png), pointer;
 }
 
